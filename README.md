@@ -6,5 +6,4 @@ After each wrong guess, you get a hint (higher/lower).
 ## Run
 ## Author
 
-
 Maroof Khan
