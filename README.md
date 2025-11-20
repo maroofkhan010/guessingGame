@@ -4,5 +4,5 @@ A simple Python game where the computer picks a number between **1–50** and yo
 After each wrong guess, you get a hint (higher/lower).
 
 ## Run
-#Author
+##Author
 Maroof Khan
